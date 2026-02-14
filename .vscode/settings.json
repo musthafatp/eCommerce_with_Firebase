@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/.hg": false
+    },
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
